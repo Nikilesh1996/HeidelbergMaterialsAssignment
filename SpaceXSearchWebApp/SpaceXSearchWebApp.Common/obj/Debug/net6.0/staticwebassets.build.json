@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "qnvJA/YcMEi+f7MYlt32BlYc4m9U6kJamE+hyhrBz9k=",
+  "Source": "SpaceXSearchWebApp.Common",
+  "BasePath": "_content/SpaceXSearchWebApp.Common",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Learning\\.NET\\SpaceXSearchWebApp\\SpaceXSearchWebApp.BizzLogic\\SpaceXSearchWebApp.BizzLogic.csproj",
+      "Version": 2,
+      "Source": "SpaceXSearchWebApp.BizzLogic",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "D:\\Learning\\.NET\\SpaceXSearchWebApp\\SpaceXSearchWebApp.Common.Abstractions\\SpaceXSearchWebApp.Common.Abstractions.csproj",
+      "Version": 2,
+      "Source": "SpaceXSearchWebApp.Common.Abstractions",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

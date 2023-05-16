@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<!--Config file for web api tests-->
+	<TestRunParameters>
+		<Parameter name="BASE_URL" value="http://localhost:47528" />
+	</TestRunParameters>
+</RunSettings>

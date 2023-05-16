@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "Hash": "VDvOyp40XINYdgir3gQWV4Asos3f5gEdKoV7P5zQBxM=",
+  "Source": "SpaceXSearchWebApp",
+  "BasePath": "_content/SpaceXSearchWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Learning\\.NET\\SpaceXSearchWebApp\\SpaceXSearchWebApp.BizzLogic\\SpaceXSearchWebApp.BizzLogic.csproj",
+      "Version": 2,
+      "Source": "SpaceXSearchWebApp.BizzLogic",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "D:\\Learning\\.NET\\SpaceXSearchWebApp\\SpaceXSearchWebApp.Common.Abstractions\\SpaceXSearchWebApp.Common.Abstractions.csproj",
+      "Version": 2,
+      "Source": "SpaceXSearchWebApp.Common.Abstractions",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "D:\\Learning\\.NET\\SpaceXSearchWebApp\\SpaceXSearchWebApp.Common\\SpaceXSearchWebApp.Common.csproj",
+      "Version": 2,
+      "Source": "SpaceXSearchWebApp.Common",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

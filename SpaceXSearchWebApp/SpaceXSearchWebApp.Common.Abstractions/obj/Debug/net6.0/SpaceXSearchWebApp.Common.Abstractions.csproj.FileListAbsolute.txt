@@ -1,0 +1,15 @@
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.csproj.AssemblyReference.cache
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.AssemblyInfoInputs.cache
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.AssemblyInfo.cs
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.csproj.CoreCompileInputs.cache
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\bin\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.deps.json
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\bin\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.dll
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\bin\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.pdb
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\staticwebassets.build.json
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\staticwebassets.development.json
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\scopedcss\bundle\SpaceXSearchWebApp.Common.Abstractions.styles.css
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.dll
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\refint\SpaceXSearchWebApp.Common.Abstractions.dll
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\SpaceXSearchWebApp.Common.Abstractions.pdb
+D:\Learning\.NET\SpaceXSearchWebApp\SpaceXSearchWebApp.Common.Abstractions\obj\Debug\net6.0\ref\SpaceXSearchWebApp.Common.Abstractions.dll
